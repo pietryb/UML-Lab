@@ -1,0 +1,5 @@
+C:\Users\brand\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.csproj.AssemblyReference.cache
+C:\Users\brand\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.AssemblyInfo.cs
+C:\Users\brand\source\repos\ClassUML\ClassUML\obj\Debug\netcoreapp3.1\ClassUML.csproj.CoreCompileInputs.cache
